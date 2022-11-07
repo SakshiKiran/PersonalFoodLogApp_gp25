@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68919302980",
+    "project_id": "group-25-food-calories",
+    "storage_bucket": "group-25-food-calories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68919302980:android:d7f2fa06461b8825f29511",
+        "android_client_info": {
+          "package_name": "com.appledi.appledi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68919302980-agb83suea96gqg84g4cmpq76f6g50f18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwe1axHmxGMDJY0J2qZxc3FLZrb0a4aEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68919302980-agb83suea96gqg84g4cmpq76f6g50f18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
